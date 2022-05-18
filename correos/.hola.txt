@@ -1,0 +1,11 @@
+Para: thoyferr@gmail.com
+hola
+
+            <h2>Hola! Los indicadores económicos de hoy son los siguientes:</h2>
+            <p>El valor del dolar el día de hoy es: 857.98</p> 
+            <p>El valor del euro el día de hoy es: 895.03</p> 
+            <p>El valor del uf el día de hoy es: 32475</p>
+            <p>El valor de la UTM día de hoy es: 56762</p> 
+            <br><br>
+            <P><p>jsjjsjsjsj</p></P>
+            

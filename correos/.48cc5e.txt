@@ -1,0 +1,10 @@
+Para: thoyferr@gmail.com
+ Asunto: correo prueba 1
+ Mensaje:
+Hola! Los indicadores económicos de hoy son los siguientes:
+El valor del dolar el día de hoy es: $857.98 pesos
+El valor del euro el día de hoy es: $895.03 pesos
+El valor del uf el día de hoy es: $32475 pesos
+El valor de la UTM día de hoy es: $56762 pesos
+
+<p>de ante mano muchas gracias</p><h1><font color="#000000" style="background-color: rgb(0, 0, 255);"><b>adios</b></font></h1>
